@@ -856,13 +856,12 @@
     "lodash" "4.17.21"
     "path-to-regexp" "3.2.0"
 
-"@nestjs/testing@^8.4.1":
-  "integrity" "sha512-LOvsLuNh2eRwAtyeoIZWmUZ08wt7QrPrKQujWuRyv+vBYtC+FLHjqreWLpwG2yulNEoQs9Qlr2ubPvFGT1953g=="
-  "resolved" "https://registry.npmjs.org/@nestjs/testing/-/testing-8.4.1.tgz"
-  "version" "8.4.1"
+"@nestjs/testing@^8.4.7":
+  "integrity" "sha512-aedpeJFicTBeiTCvJWUG45WMMS53f5eu8t2fXsfjsU1t+WdDJqYcZyrlCzA4dL1B7MfbqaTURdvuVVHTmJO8ag=="
+  "resolved" "https://registry.npmjs.org/@nestjs/testing/-/testing-8.4.7.tgz"
+  "version" "8.4.7"
   dependencies:
-    "optional" "0.1.4"
-    "tslib" "2.3.1"
+    "tslib" "2.4.0"
 
 "@nestjs/typeorm@^8.0.3":
   "integrity" "sha512-tf9rTXP6LeFInkwd+tktQhtLRsKp4RRYImprqT8gcHcJDx+xMP1IygnXELOKwF5vo2/mnhrGtBlRQ/iiS6170g=="
@@ -4447,11 +4446,6 @@
   dependencies:
     "mimic-fn" "^2.1.0"
 
-"optional@0.1.4":
-  "integrity" "sha512-gtvrrCfkE08wKcgXaVwQVgwEQ8vel2dc5DDBn9RLQZ3YtmtkBss6A2HY6BnJH4N/4Ku97Ri/SF8sNWE2225WJw=="
-  "resolved" "https://registry.npmjs.org/optional/-/optional-0.1.4.tgz"
-  "version" "0.1.4"
-
 "optionator@^0.8.1":
   "integrity" "sha512-+IW9pACdk3XWmmTXG8m3upGUJst5XRGzxMRjXzAuJ1XnIFNvfhjjIuYkDvysnPQ7qzqVzLt78BCruntqRhWQbA=="
   "resolved" "https://registry.npmjs.org/optionator/-/optionator-0.8.3.tgz"
@@ -5421,7 +5415,7 @@
     "readable-stream" "^3.6.0"
     "semver" "^7.3.5"
 
-"supertest@6.2.2":
+"supertest@^6.2.2":
   "integrity" "sha512-wCw9WhAtKJsBvh07RaS+/By91NNE0Wh0DN19/hWPlBOU8tAfOtbZoVSV4xXeoKoxgPx0rx2y+y+8660XtE7jzg=="
   "resolved" "https://registry.npmjs.org/supertest/-/supertest-6.2.2.tgz"
   "version" "6.2.2"
@@ -5673,6 +5667,11 @@
   "integrity" "sha512-77EbyPPpMz+FRFRuAFlWMtmgUWGe9UOG2Z25NqCwiIjRhOf5iKGuzSe5P2w1laq+FkRy4p+PCuVkJSGkzTEKVw=="
   "resolved" "https://registry.npmjs.org/tslib/-/tslib-2.3.1.tgz"
   "version" "2.3.1"
+
+"tslib@2.4.0":
+  "integrity" "sha512-d6xOpEDfsi2CZVlPQzGeux8XMwLT9hssAsaPYExaQMuYskwb+x1x7J371tWlbBdWHroy99KnVB6qIkUbs5X3UQ=="
+  "resolved" "https://registry.npmjs.org/tslib/-/tslib-2.4.0.tgz"
+  "version" "2.4.0"
 
 "tsutils@^3.21.0":
   "integrity" "sha512-mHKK3iUXL+3UF6xL5k0PEhKRUBKPBCv/+RkEOpjRWxxx27KKRBmmA60A9pgOUvMi8GKhRMPEmjBRPzs2W7O1OA=="
